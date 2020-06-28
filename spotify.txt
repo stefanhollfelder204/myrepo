@@ -1,4 +1,4 @@
-udio-sp-atl.spotify.com
+audio-sp-atl.spotify.com
 audio-cf.spotify.com
 audio-fac.spotify.com
 audio-ak.spotify.com.edgesuite.net
